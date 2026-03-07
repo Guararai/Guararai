@@ -12,18 +12,13 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guararai&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=161b22" width="95%" />
 
-<br><br>
-
-*"O quão alto sonharia se soubesse que não pode falhar?"*
-
-<br><br>
 
 <a href="mailto:davi.guararai@gmail.com">
   <img src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=c9d1d9" />
 </a>
 &ensp;
 <a href="https://www.linkedin.com/in/davi-dos-santos-678055328/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=c9d1d9" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" />
 </a>
 &ensp;
 <a href="https://github.com/Guararai">
