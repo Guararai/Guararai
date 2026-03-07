@@ -1,10 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Davi%20dos%20Santos%20Silva&fontSize=36&fontColor=c9d1d9&fontAlignY=35&desc=Desenvolvedor%20Web%20Jr%20%7C%20Estudante%20de%20ADS&descSize=16&descColor=8b949e&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Davi%20dos%20Santos%20Silva&fontSize=36&fontColor=c9d1d9&fontAlignY=30&desc=Desenvolvedor%20Web%20Jr%20%7C%20Estudante%20de%20ADS&descSize=16&descColor=8b949e&descAlignY=50" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=2596BE&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Formado+T%C3%A9cnico+em+Inform%C3%A1tica+pela+ETEC+Prof.+Maria+Cristina+Medeiros;Cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+na+USCS" alt="Typing SVG" />
-
-<br><br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,postgres,firebase,flutter,dart,figma,git,html,css&theme=dark&perline=13" />
 
