@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Formado+T%C3%A9cnico+em+Inform%C3%A1tica+pela+ETEC+Prof.+Maria+Cristina+Medeiros;Cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+na+USCS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=2596BE&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Formado+T%C3%A9cnico+em+Inform%C3%A1tica+pela+ETEC+Prof.+Maria+Cristina+Medeiros;Cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+na+USCS" alt="Typing SVG" />
 
 <br><br>
 
@@ -16,7 +16,7 @@
 <a href="mailto:davi.guararai@gmail.com">
   <img src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logoColor=c9d1d9" />
 </a>
-&ensp;
+
 <a href="https://www.linkedin.com/in/davi-dos-santos-678055328/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logoColor=white" />
 </a>
