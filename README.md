@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Formado+T%C3%A9cnico+em+Inform%C3%A1tica+pela+ETEC+Prof.+Maria+Cristina+Medeiros;Cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+na+USCS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Formado+T%C3%A9cnico+em+Inform%C3%A1tica+pela+ETEC+Prof.+Maria+Cristina+Medeiros;Cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+na+USCS" alt="Typing SVG" />
 
 <br><br>
 
@@ -14,17 +14,12 @@
 
 
 <a href="mailto:davi.guararai@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=c9d1d9" />
+  <img src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logoColor=c9d1d9" />
 </a>
 &ensp;
 <a href="https://www.linkedin.com/in/davi-dos-santos-678055328/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logoColor=white" />
 </a>
-&ensp;
-<a href="https://github.com/Guararai">
-  <img src="https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=c9d1d9" />
-</a>
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Guararai&color=161b22&style=flat-square&label=visitantes" />
