@@ -2,101 +2,37 @@
 
 <div align="center">
 
-
-</div>
-
-<div align="center">
-<sub>Dev Web Jr de Ribeirão Pires, SP. Cursando ADS na USCS, com experiência em sites em produção, sistemas com Firebase e projetos premiados na FETEPS. Aprendendo React, Node.js e Express.</sub>
-</div>
-
-<br>
-
-<table align="center" border="none">
-<tr>
-<td width="55%" valign="top">
-
-```js
-
-module.exports = {
-  nome: "Davi dos Santos Silva",
-  local: "Ribeirão Pires, SP",
-  formação: "ADS @ USCS (2025–2027)",
-
-  stack: {
-    front: ["React", "Tailwind", "Bootstrap", "Flutter"],
-    back:  ["Node.js", "Express", "PostgreSQL", "Firebase"],
-    tools: ["Git", "Figma", "VS Code", "REST APIs"],
-    langs: ["JavaScript", "Dart", "SQL", "HTML/CSS"],
-  },
-
-  atualmente: [
-    "Desenvolvedor Web Jr @ Keybrane",
-    "Aprofundando React + Node + Express",
-    "Construindo o FitMatch com Flutter"
-  ],
-
-  extras: ["Design Gráfico", "UI/UX", "Acessibilidade"]
-};
-```
-
-</td>
-<td width="45%" valign="top">
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Guararai&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&ring_color=58a6ff" height="150" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Formado+T%C3%A9cnico+em+Inform%C3%A1tica+pela+ETEC+Prof.+Maria+Cristina+Medeiros;Cursando+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+na+USCS" alt="Typing SVG" />
 
 <br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guararai&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" height="130" />
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,postgres,firebase,flutter,dart,figma,git,html,css&theme=dark&perline=13" />
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guararai&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=161b22" width="95%" />
 
-</div>
+<br><br>
 
-<br>
+*"O quão alto sonharia se soubesse que não pode falhar?"*
 
-<div align="center">
-
-```
-"O quão alto sonharia se soubesse que não pode falhar?"
-```
-
-<br>
+<br><br>
 
 <a href="mailto:davi.guararai@gmail.com">
-  <img src="https://img.shields.io/badge/Email-davi.guararai-0d1117?style=flat-square&logo=gmail&logoColor=8b949e&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=c9d1d9" />
 </a>
 &ensp;
-<a href="https://linkedin.com/in/davi-dos-santos">
-  <img src="https://img.shields.io/badge/LinkedIn-davi--dos--santos-0d1117?style=flat-square&logo=linkedin&logoColor=8b949e&labelColor=0d1117" />
+<a href="https://www.linkedin.com/in/davi-dos-santos-678055328/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=c9d1d9" />
 </a>
 &ensp;
 <a href="https://github.com/Guararai">
-  <img src="https://img.shields.io/badge/GitHub-Guararai-0d1117?style=flat-square&logo=github&logoColor=8b949e&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github&logoColor=c9d1d9" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Guararai&color=161b22&style=flat-square&label=visitors" />
+<img src="https://komarev.com/ghpvc/?username=Guararai&color=161b22&style=flat-square&label=visitantes" />
 
 </div>
 
