@@ -16,7 +16,7 @@
 <br>
 
 
-<a href="mailto:davi.guararai@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logoColor=c9d1d9" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/davi-dos-santos-678055328/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logoColor=white" /></a>
+<a href="mailto:davi.guararai@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logoColor=c9d1d9" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/davi-dos-santos-678055328/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/Guararai/Guararai/raw/main/Davi%20-%20Curriculo.pdf"><img src="https://img.shields.io/badge/-Currículo-0d1117?style=flat-square&logo=adobeacrobatreader&logoColor=c9d1d9" /></a>
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Guararai&color=161b22&style=flat-square&label=visitantes" />
