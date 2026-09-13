@@ -6,9 +6,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Guararai&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=161b22" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Guararai&theme=minimal&hide_border=true&line=2596be&point=333333&area=true&area_color=2596be" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guararai&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=161b22" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guararai/Guararai/output/bomberman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guararai/Guararai/output/bomberman-contribution-graph.svg" />
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/Guararai/Guararai/output/bomberman-contribution-graph-dark.svg" width="95%" />
 </picture>
 
 <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,postgres,firebase,flutter,dart,figma,git,html,css&theme=dark&perline=13" />
